@@ -7,7 +7,8 @@ public class A1 {
 		System.out.println("A SV");
 		return 10;
 	}
-	
+	//Core java 
+	//Core Java
 	static {
 		System.out.println("A SB");
 	}
